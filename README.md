@@ -44,3 +44,6 @@ SAVE PRINCE는 저의 개인프로젝트인 SAVE PRINCESS의 후속작입니다.
      점수가 초기화된 상태로 해당 스테이지 시작지점으로 리스폰됩니다.
    - 체력은 총 3개로 몬스터에게 닿으면 1개가 차감되고 3초간 무적상태가됩니다.
    - 왕자님을 찾으면 RESTART버튼이 나오고 누르면 다시시작이 됩니다.
+   
+      *( 이미지를 클릭하면 유튜브로 넘어갑니다. )*
+      [![Save_prince_capture](https://user-images.githubusercontent.com/44610250/69230401-8f146800-0bca-11ea-8469-1a8a701e0578.png)](https://www.youtube.com/watch?v=MahG3-dYZlY&feature=youtu.be)
