@@ -9,6 +9,12 @@ SAVE PRINCE는 저의 개인프로젝트인 SAVE PRINCESS의 후속작입니다.
 그래서 쿠파가 유연한 왕자를 납치해가서 유연한 공주님이 구하러갑니다 !  
 *(본 프로젝트는 유니티를 처음 접하고 예제를 보면서 만든 유니티 게임엔진 학습용 프로젝트입니다.)*
 
+:computer: Developerment skill
+------------
+- 언어 : Java, C#
+- 게임 엔진 : Unity v2018.3.12f1
+- IDE : AndroidStudio  
+
 :ribbon: Description
 -----------
 * ### 캐릭터 컨트롤 기능
